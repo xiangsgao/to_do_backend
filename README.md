@@ -8,10 +8,10 @@ replace PORT with your port and the MySQL username, password, domain, and port w
 
 see .env.example
 
-Then run yarn install
+Then run "yarn install"
 
-next run npx prisma migrate dev
+then run "npx prisma migrate dev"
 
-next run npx prisma generate
+then run "npx prisma generate"
 
-finally run yarn start
+finally run "yarn start"
